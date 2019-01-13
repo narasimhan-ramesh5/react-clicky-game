@@ -69,7 +69,7 @@ class App extends Component {
       return(card.id === id);
     });
 
-    console.log("User clicked on " + cards[i].name);
+    //console.log("User clicked on " + cards[i].name);
 
     /* If the character has a click count of 0, it hasn't been clicked before.
        Increment user's score and shuffle the cards */
@@ -87,7 +87,7 @@ class App extends Component {
                       cards : cards
                     });
     } else {
-      console.log("oops, you've already clicked " + cards[i].name);
+      //console.log("oops, you've already clicked " + cards[i].name);
       this.gameOver();
     }
   }
@@ -103,7 +103,7 @@ class App extends Component {
   componentDidUpdate = () =>{
     /* If the user has clicked on each card exactly once, the score should 
        equal the number of cards (characters). The user wins and the game is over. */
-    console.log("Onchange invoked");
+    //console.log("Onchange invoked");
     if(this.state.score === this.state.cards.length){
       this.gameOver();
     }

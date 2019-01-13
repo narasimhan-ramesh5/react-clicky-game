@@ -1,0 +1,74 @@
+[
+  {
+    "id": 1,
+    "name": "Daffy Duck",
+    "image": "https://vignette.wikia.nocookie.net/warner-bros-entertainment/images/0/00/Daffy_Duck.svg.png/revision/latest?cb=20181216143230",
+    "count": 0
+  },
+  {
+    "id": 2,
+    "name": "Bugs Bunny",
+    "image": "https://vignette2.wikia.nocookie.net/deathbattlefanon/images/2/2b/Bugs_Bunny.png/revision/latest?cb=20151206010607",
+    "count": 0
+  },
+  {
+    "id": 3,
+    "name": "Tweety",
+    "image": "https://vignette.wikia.nocookie.net/originallylooneytunes/images/a/ae/Tweety_300-1-.gif/revision/latest?cb=20110420110356",
+    "count": 0
+  },
+  {
+    "id": 4,
+    "name": "Sylvester",
+    "image": "https://vignette.wikia.nocookie.net/looneytoon/images/c/c0/172px-Sylvester_the_Cat.svg-1-.png/revision/latest?cb=20110615095651",
+    "count": 0
+  },
+  {
+    "id": 5,
+    "name": "Foghorn Leghorn",
+    "image": "https://vignette.wikia.nocookie.net/wabbit/images/a/a0/Foghorn_Leghorn.png/revision/latest?cb=20151223025711",
+    "count": 0
+  },
+  {
+    "id": 6,
+    "name": "Yosemite Sam",
+    "image": "https://vignette.wikia.nocookie.net/looneytunes/images/8/8c/Yosemite_Sam.png/revision/latest?cb=20180523161541",
+    "count": 0
+  },
+  {
+    "id": 7,
+    "name": "Marvin the Martian",
+    "image": "https://vignette.wikia.nocookie.net/looneytunes/images/a/a7/307px-Marvin_the_Martian.gif/revision/latest?cb=20130824011616",
+    "count": 0
+  },
+  {
+    "id": 8,
+    "name": "Porky Pig",
+    "image": "https://vignette.wikia.nocookie.net/looneytunesshow/images/e/ea/Porky_Season_2.gif/revision/latest?cb=20141109225147",
+    "count": 0
+  },
+  {
+    "id": 9,
+    "name": "Tasmanian Devil",
+    "image": "https://vignette.wikia.nocookie.net/looneytunes/images/e/e1/230px-Taz-Looney_Tunes_svg.png/revision/latest?cb=20130825180200",
+    "count": 0
+  },
+  {
+    "id": 10,
+    "name": "Pepe Le Pew",
+    "image": "https://vignette.wikia.nocookie.net/looneytunesshow/images/2/20/Pew.png/revision/latest?cb=20110713224811",
+    "count": 0
+  },
+  {
+    "id": 11,
+    "name": "Barnyard Dawg",
+    "image": "https://vignette.wikia.nocookie.net/looneytunes/images/a/a5/Barnyard_Dog_300.gif/revision/latest?cb=20110827223924",
+    "count": 0
+  },
+  {
+    "id": 12,
+    "name": "Elmer Fudd",
+    "image": "https://vignette.wikia.nocookie.net/villains/images/3/38/Fudd-body.png/revision/latest?cb=20180816153716",
+    "count": 0
+  }
+]
